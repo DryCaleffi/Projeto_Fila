@@ -38,8 +38,8 @@ int main() {
                 }
                 break;
 
-            case OPATENDER:
-                pesquisar_fila(); // Mostra o valor atual da fila
+           case OPATENDER:
+            imprimir_inicio(); // Remove e imprime a senha a ser atendida
                 break;
 
             case OPSAIR:
